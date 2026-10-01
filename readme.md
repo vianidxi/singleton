@@ -133,7 +133,7 @@ Responde estas preguntas en tu cuaderno o en tu entrega:
 
 **Actividad:** anota tus respuestas y prepárate para discutirlas en clase.
 
-- [ ] Respondí las preguntas de análisis y entendí el impacto del patrón Singleton.
+- [x] Respondí las preguntas de análisis y entendí el impacto del patrón Singleton.
 
 ## 6. Criterio de finalización
 
@@ -145,4 +145,4 @@ Este ejercicio está terminado cuando:
 - el programa compila y ejecuta correctamente,
 - comprendes las ventajas y limitaciones del patrón.
 
-- [ ] He completado el ejercicio de Singleton en Java y puedo explicar el resultado final.
+- [x] He completado el ejercicio de Singleton en Java y puedo explicar el resultado final.
