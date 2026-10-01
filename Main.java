@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
         // Different parts of the code create their own config...
-        AppConfig config1 = new AppConfig();
-        AppConfig config2 = new AppConfig();
+        AppConfig config1 = AppConfig.getInstance();
+        AppConfig config2 = AppConfig.getInstance();
 
         config1.setTheme("Dark"); // Change setting in one object...
 

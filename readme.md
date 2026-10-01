@@ -102,8 +102,8 @@ public class Main {
 
 **Actividad:** ejecuta el programa después del cambio y comprueba que `config1` y `config2` apuntan a la misma instancia.
 
-- [ ] Actualicé `Main` para utilizar `AppConfig.getInstance()`.
-- [ ] Ejecuté el programa y comprobé el resultado de `(config1 == config2)`.
+- [x] Actualicé `Main` para utilizar `AppConfig.getInstance()`.
+- [x] Ejecuté el programa y comprobé el resultado de `(config1 == config2)`.
 
 ## 4. Compilar y ejecutar el ejercicio
 
