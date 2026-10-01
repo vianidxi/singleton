@@ -118,8 +118,8 @@ El programa debe imprimir la configuración y mostrar que ambas referencias son 
 
 **Actividad:** guarda la salida que te permita demostrar que el patrón Singleton funciona correctamente.
 
-- [ ] El programa compiló sin errores.
-- [ ] Ejecuté `Main` y verifiqué la salida final.
+- [x] El programa compiló sin errores.
+- [x] Ejecuté `Main` y verifiqué la salida final.
 
 ## 5. Reflexión final
 
